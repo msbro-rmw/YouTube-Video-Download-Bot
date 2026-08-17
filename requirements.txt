@@ -8,4 +8,5 @@ aiohttp
 Pillow
 hachoir
 ffmpeg-python
-gunicorn==20.1.0
+gunicorn
+pkg_resources
